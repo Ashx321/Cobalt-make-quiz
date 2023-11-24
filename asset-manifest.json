@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/make-quiz/static/css/main.e28eefcc.css",
+    "main.js": "/make-quiz/static/js/main.d2410253.js",
+    "index.html": "/make-quiz/index.html",
+    "main.e28eefcc.css.map": "/make-quiz/static/css/main.e28eefcc.css.map",
+    "main.d2410253.js.map": "/make-quiz/static/js/main.d2410253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e28eefcc.css",
+    "static/js/main.d2410253.js"
+  ]
+}
